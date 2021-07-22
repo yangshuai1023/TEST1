@@ -1,8 +1,13 @@
-≤‚ ‘£¨—ßœ∞
+
 add test message!
 this is test!
 the third modify!
 the fourth modify!
+<<<<<<< HEAD
 the 5th modify!
 
+=======
+the fifth modify!
+the sixth modify!
+>>>>>>> 6aa9eae096e41831c3f6aef0077627363e5f1dae
 
